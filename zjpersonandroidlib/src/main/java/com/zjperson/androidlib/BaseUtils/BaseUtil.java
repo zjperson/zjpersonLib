@@ -4,6 +4,6 @@ package com.zjperson.androidlib.BaseUtils;
 * 工具基类
 * Email zjperson@gmail.com
 */
-public class BaseUtil {
+public abstract class BaseUtil {
 
 }

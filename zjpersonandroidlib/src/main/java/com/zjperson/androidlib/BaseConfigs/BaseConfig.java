@@ -4,5 +4,6 @@ package com.zjperson.androidlib.BaseConfigs;
  * 配置基类
  * Email zjperson@gmail.com
  */
-public class BaseConfig {
+public abstract class BaseConfig {
+
 }

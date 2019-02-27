@@ -4,6 +4,6 @@ package com.zjperson.androidlib.BaseModels;
  * 数据模型基类
  * Email zjperson@gmail.com
  */
-public class BaseModel {
+public abstract class BaseModel {
 
 }
