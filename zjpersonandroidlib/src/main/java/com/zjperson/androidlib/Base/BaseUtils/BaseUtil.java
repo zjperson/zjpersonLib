@@ -1,4 +1,4 @@
-package com.zjperson.androidlib.BaseUtils;
+package com.zjperson.androidlib.Base.BaseUtils;
 /**
 * created by zjperson
 * 工具基类

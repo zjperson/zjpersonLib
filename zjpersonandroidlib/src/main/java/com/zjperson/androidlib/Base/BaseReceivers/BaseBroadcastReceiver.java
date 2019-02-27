@@ -1,4 +1,4 @@
-package com.zjperson.androidlib.BaseReceivers;
+package com.zjperson.androidlib.Base.BaseReceivers;
 
 import android.content.BroadcastReceiver;
 

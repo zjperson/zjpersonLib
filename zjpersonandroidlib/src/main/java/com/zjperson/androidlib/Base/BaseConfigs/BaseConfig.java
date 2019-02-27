@@ -1,4 +1,4 @@
-package com.zjperson.androidlib.BaseConfigs;
+package com.zjperson.androidlib.Base.BaseConfigs;
 /**
  * created by zjperson on 2019/2/27
  * 配置基类

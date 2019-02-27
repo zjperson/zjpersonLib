@@ -1,4 +1,4 @@
-package com.zjperson.androidlib.BaseModels;
+package com.zjperson.androidlib.Base.BaseModels;
 /**
  * created by zjperson on 2019/2/27
  * 数据模型基类

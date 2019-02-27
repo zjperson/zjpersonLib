@@ -1,4 +1,4 @@
-package com.zjperson.androidlib.BaseViews.BaseFragment;
+package com.zjperson.androidlib.Base.BaseViews.BaseFragment;
 
 import android.support.v4.app.Fragment;
 

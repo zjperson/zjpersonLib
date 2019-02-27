@@ -1,4 +1,4 @@
-package com.zjperson.androidlib.BaseInterfaces;
+package com.zjperson.androidlib.Base.BaseInterfaces;
 /**
 * created by zjperson
 * 接口总基类

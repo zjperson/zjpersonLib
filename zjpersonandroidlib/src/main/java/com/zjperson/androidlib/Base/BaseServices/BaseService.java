@@ -1,4 +1,4 @@
-package com.zjperson.androidlib.BaseServices;
+package com.zjperson.androidlib.Base.BaseServices;
 
 import android.app.Service;
 
